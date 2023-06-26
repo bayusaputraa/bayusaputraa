@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayusaputraa
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning junior programming
+- 👀 I’m interested in the world of programming
+- 🌱 I’m currently learning about anything
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me send me email
 
