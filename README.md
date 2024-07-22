@@ -8,7 +8,7 @@ I'm passionate about the world of programming and always eager to learn new thin
 - 🌱 **I’m currently learning**: Full-stack development, DevOps, and machine learning.
 - 💬 **Ask me about**: Web development, JavaScript, Python, and open-source contributions.
 - 📫 **How to reach me**: Feel free to [send me an email](mailto:bayusaputra.005.003@gmail.com).
-- ⚡ **Fun fact**: I love solving puzzles and playing chess in my free time.
+- ⚡ **Fun fact**: I love solving code problem, Iot and network problem in my free time.
 
 ## Skills
 - **Networking**: Router & Switch Configuration, Network Troubleshooting, LAN & WAN Management
